@@ -1,0 +1,4 @@
+Wajahat is going to work on 3 templates
+- New Registration
+-Shipment
+-Card Details
